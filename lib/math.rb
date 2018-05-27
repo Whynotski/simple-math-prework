@@ -14,7 +14,8 @@ def multiplication(num1, num2)
   return num1*num2
 end
 
-
+num1 = 30
+num2 = 3
 binding.pry
 def modulo(num1, num2)
 end
