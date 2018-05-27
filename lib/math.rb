@@ -29,7 +29,7 @@ num1=34
 num2=5 
 
 def square_root(num)
-  return sqrt (num)
+  return math.sqrt (num)
 end
 num=81
 
