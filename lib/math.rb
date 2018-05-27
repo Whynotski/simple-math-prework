@@ -17,7 +17,7 @@ end
 num1 = 30
 num2 = 3
 
-binding.pry
+
 
 
 def modulo(num1, num2)
