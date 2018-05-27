@@ -25,12 +25,13 @@ num2=30
 def modulo(num1, num2)
   return num1%num2
 end
-num1=10 
+num1=34 
 num2=5 
 
 def square_root(num)
-  
+  return sqrt (num)
 end
+num=81
 
 def order_of_operation(num1, num2, num3, num4)
   #Hint:  __ + (( __ * __ ) / __ )
