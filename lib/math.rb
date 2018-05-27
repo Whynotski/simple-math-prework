@@ -1,18 +1,26 @@
 def addition(num1, num2)
   return num1+num2
 end
+num1=5
+num2=4 
 
 def subtraction(num1, num2)
   return num1-num2
 end
+num1=10 
+num2=5 
 
 def division(num1, num2)
   return num1/num2
 end
+num1=10 
+num2=5 
 
 def multiplication(num1, num2)
   return num1*num2
 end
+num1=10 
+num2=5 
 
 num1 = 30
 num2 = 3
