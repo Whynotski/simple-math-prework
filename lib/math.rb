@@ -23,7 +23,7 @@ num1=4
 num2=30 
 
 def modulo(num1, num2)
-  return
+  return num1%num2
 end
 
 def square_root(num)
