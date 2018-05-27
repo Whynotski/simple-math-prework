@@ -28,10 +28,10 @@ end
 num1=34 
 num2=5 
 
-def square_root(num)
-  return math.sqrt (num)
+def square_root(num3)
+  return sqrt (num3)
 end
-num=81
+num3=81
 
 def order_of_operation(num1, num2, num3, num4)
   #Hint:  __ + (( __ * __ ) / __ )
