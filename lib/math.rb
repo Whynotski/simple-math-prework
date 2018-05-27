@@ -22,13 +22,12 @@ end
 num1=4 
 num2=30 
 
-
-
-
 def modulo(num1, num2)
+  return
 end
 
 def square_root(num)
+  
 end
 
 def order_of_operation(num1, num2, num3, num4)
